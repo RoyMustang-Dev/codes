@@ -24,9 +24,16 @@ conda activate venv/
     pip3 install Pillow
     ```
     * Run the below command to execute the project
-    
     ```
     python JPGtoPNGconverter.py images\ converted_image\
     ```
 
-2. New Project Name
+2. Watermark Merger - watermark-merger.py using PyPDF2
+    * Install the Required Library
+    ```
+    pip3 install PyPDF2
+    ```
+    * Run the below command to execute the project
+    ```
+    python watermark-merger.py
+    ```
