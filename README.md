@@ -1,5 +1,5 @@
 # This is a Python Brush-up Coding Exercise
-``` * Please Go Through the brush-ups.ipynb File Before Executing the Projects * ```
+```**Please Go Through the brush-ups.ipynb File Before Executing the Projects**```
 ### Topics Covered!!
 
 1. Regular Expressions
@@ -39,4 +39,20 @@ conda activate venv/
     * Run the below command to execute the project
     ```
     python watermark-merger.py
+    ```
+
+3. Email Sender - email-sender.py using SMTPLib
+    * Run the below command to execute the project
+    ```
+    python email-sender.py
+    ```
+
+4. Password Checker - checkmypass.py using Requests, Hashing & K-Anonymity
+    * Install the Required Library
+    ```
+    pip install requests
+    ```
+    * Run the below command to execute the project
+    ```
+    python checkmypass.py password-to-check
     ```
