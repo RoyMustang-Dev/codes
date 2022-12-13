@@ -7,6 +7,9 @@
     * Password Validation
 2. Scripting
     * Image Processing using Pillow
+    * PDF Processing using PyPDF2
+    * Email Sending using SMTP & SMTPLib
+    * Password Checker using Requests, Hashing & K-Anonymity
 
 
 ### Create a New Environment and Activate!!
