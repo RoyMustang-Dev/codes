@@ -28,7 +28,7 @@ conda activate venv/
     ```
     * Run the below command to execute the project
     ```
-    python JPGtoPNGconverter.py images\ converted_image\
+    python 1.JPGtoPNGconverter.py images\ converted_image\
     ```
 
 2. Watermark Merger - watermark-merger.py using PyPDF2
@@ -38,13 +38,13 @@ conda activate venv/
     ```
     * Run the below command to execute the project
     ```
-    python watermark-merger.py
+    python 2.watermark-merger.py
     ```
 
 3. Email Sender - email-sender.py using SMTPLib
     * Run the below command to execute the project
     ```
-    python email-sender.py
+    python 3.email-sender.py
     ```
 
 4. Password Checker - checkmypass.py using Requests, Hashing & K-Anonymity
@@ -54,13 +54,13 @@ conda activate venv/
     ```
     * Run the below command to execute the project
     ```
-    python checkmypass.py password-to-check
+    python 4.checkmypass.py password-to-check
     ```
 
 5. Sentence Maker from Set of Strings - textpro.py using in-built libraries
     * Run the below command to execute the project
     ```
-    python textpro.py
+    python 5.textpro.py
     ```
     * To exit from the program type 
     ```
@@ -70,5 +70,5 @@ conda activate venv/
 6. Interactive English Dictionary - english-dict.py using in-built libraries 
     * Run the below command to execute the project
     ```
-    python english-dict.py
+    python 6.english-dict.py
     ```
