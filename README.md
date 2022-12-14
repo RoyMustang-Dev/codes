@@ -56,3 +56,19 @@ conda activate venv/
     ```
     python checkmypass.py password-to-check
     ```
+
+5. Sentence Maker from Set of Strings - textpro.py using in-built libraries
+    * Run the below command to execute the project
+    ```
+    python textpro.py
+    ```
+    * To exit from the program type 
+    ```
+    \end
+    ```
+
+6. Interactive English Dictionary - english-dict.py using in-built libraries 
+    * Run the below command to execute the project
+    ```
+    python english-dict.py
+    ```
