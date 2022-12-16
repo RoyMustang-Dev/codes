@@ -1,3 +1,5 @@
 Pillow
 PyPDF2
 requests
+folium
+pandas

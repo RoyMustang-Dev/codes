@@ -72,3 +72,13 @@ conda activate venv/
     ```
     python 6.english-dict.py
     ```
+
+7. Map of Population & Volcanoes - mapping.py using Folium
+    * Install the Required Library
+    ```
+    pip install folium
+    ```
+    * Run the below command to execute the project
+    ```
+    python 7.mapping.py
+    ```
