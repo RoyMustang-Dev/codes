@@ -19,6 +19,13 @@ conda create -p venv python==3.9 -y
 conda activate venv/
 ```
 
+### Practical Examples for Data Science!!
+
+**Note:** ` The datasets for the following two implimentations are not available for Public usage, so anyone trying to impliment it will have to make their own datasets!!!  `
+
+1. Regular Expression use case for NLP - regex_practical_eg.ipynb
+2. Vlookup() implimentation in Python - vlookup_in_python.ipynb
+
 ### Projects Implemented!!
 
 1. JPG to PNG Converter - JPGtoPNGconverter.py using Pillow
